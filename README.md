@@ -1,5 +1,5 @@
 # SSPC-Net: Semi-supervised Semantic 3D Point Cloud Segmentation Network 
-by Mingmei Cheng, Le Hui, Jin Xie and Jian Yang, details are in [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16200/16007)
+by Mingmei Cheng, Le Hui, Jin Xie and Jian Yang, details are in [paper](https://arxiv.org/abs/2104.07861)
 ### Requirements:
 
 - environment:
